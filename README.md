@@ -8,7 +8,7 @@ Chkobba is a traditional North African card game. This Python implementation all
 
 ## File Structure
 - `main.py`: The core of the game, managing the game flow and user interface.
-- `ai.py`: Handles AI logic and decision-making based on the game's current state. (*Not ready yet*)
+- `AI_chkobba.py`: Handles AI logic and decision-making based on the game's current state. (*Not ready yet*)
 - `RULES.md`: Detailed Chkobba game rules.
 
 ## How to Play
@@ -22,7 +22,7 @@ At the end of each game, the statistics, including points and Chkobba counts, ar
 
 ## How to Run
 1. Ensure you have Python 3.x installed .
-2. Ensure that both `main.py` and `ai.py` are in the same directory .
+2. Ensure that both `main.py` and `AI_chkobba.py` are in the same directory .
 3. Run the game with:
    ```bash
    python main.py
